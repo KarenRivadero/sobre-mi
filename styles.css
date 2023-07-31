@@ -2,9 +2,13 @@ body {
     background: gray;
 }
 /* Fondo de color gris */
+h1 {
+    font-size: 2em;
+    font-family:Cambria;
+}
 h2 {
     color: white;
-    font-size: 2em;
-    font-family: Cambria;
+    font-size: 1em;
+    font-family: Times New Roman;
 }
 /*Subtitulos de color blanco*/
