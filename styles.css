@@ -4,5 +4,7 @@ body {
 /* Fondo de color gris */
 h2 {
     color: white;
+    font-size: 2em;
+    font-family: Cambria;
 }
 /*Subtitulos de color blanco*/
