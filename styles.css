@@ -3,13 +3,13 @@ body {
 }
 /* Fondo de color gris */
 h1 {
-    font-size: 100%;
+    font-size: 500%;
     font-family:Cambria;
 }
 h2 {
     color: white;
     /*Subtitulos de color blanco*/
-    font-size: 70%;
+    font-size:300%;
     font-family: Times New Roman;
     /*Tipo y tamaño fuente*/
 }
