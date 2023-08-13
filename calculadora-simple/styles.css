@@ -1,0 +1,62 @@
+body {
+    padding: 0%;
+    margin: 0%;
+    background:rgb(168, 153, 167);
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 0%;
+}
+
+h2 {
+    text-align: center;
+    font-family:Cambria;
+}
+
+h1 {
+    text-align: center;
+    color: rgb(83, 81, 126);
+    font-weight: bold;
+    font-family: Cambria;
+    font-size: 50px;
+}
+
+input[type="number"], select, button {
+    display: block;
+    width: 95%;
+    padding: 2px;
+    margin-bottom: 10px;
+    border: 2px solid rgb(5, 5, 5);
+    border-radius: 15px;
+    font-size: 18px;    
+}
+
+label {
+    font-family: Arial;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    color: rgb(83, 81, 126);
+
+}
+option {
+    font-family:'Courier New' ;
+    font-size: 20px;
+    text-align: center;
+}
+ button:hover {
+    background-color: rgb(128, 122, 128);
+}
+
+.Calculadora {
+    background-color:rgb(233, 196, 236);
+    padding: 60px;
+    box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
+    margin: 70px;
+    border: 10px solid white;
+    cursor: pointer;
+}
+
+   
+    
+
