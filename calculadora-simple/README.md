@@ -1,2 +1,3 @@
-**#Calculadora Simple** :abacus:
+# **Calculadora Simple** :abacus:
 Este proyecto trata de una calculadora básica, en la que utiliza dos valores numéricos y ejecuta las operaciones básicas (suma,resta,multiplicación y división) entre ellos. 
+## Introducción
