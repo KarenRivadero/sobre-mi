@@ -54,6 +54,7 @@ option {
     box-shadow: 0 2px 5px rgba(0, 0, 0, 0.2);
     margin: 70px;
     border: 10px solid white;
+    border-radius: ;
     cursor: pointer;
 }
 
