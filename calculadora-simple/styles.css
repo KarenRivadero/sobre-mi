@@ -46,9 +46,8 @@ option {
 }
 
 .Limpiar {
-
-    display: flex;
-    align-items: center;
+    display:flex;
+    justify-content: center;
     width: 25%;
     padding: 2px;
     margin-bottom: 10px;
