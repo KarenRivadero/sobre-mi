@@ -5,7 +5,7 @@ Este proyecto se inicia a partir de una propuesta lanzada por la Facultad de Mat
 ## Pre-requisitos 📋
 Para utilizar esta calculadora no es necesario tener conocimientos previos acerca de programación o matemática; es una calculadora básica en la que solo se necesita un dispositivo electrónico, ya sea celular o computadora, conectado a una red de internet.
 ## Pasos para utilizarla :writing_hand:
-+ Ingresa a la página a traves del siguiente link: https://karenrivadero.github.io/sobre-mi/calculadora-simple/ ,
++ Ingresa a la página a traves del siguiente link: https://karenrivadero.github.io/sobre-mi/practico-1/ ,
 + Ingresa un valor numérico en las dos casillas que lo indican,
 + Elije qué tipo de operación quieres ejecutar,
 + Presiona el botón "Calcular" y el resultado se mostrará en pantalla,
