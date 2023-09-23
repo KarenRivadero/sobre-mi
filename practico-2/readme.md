@@ -1,5 +1,5 @@
 # **Juego piedra , papel o tijeras** :fist_raised: :raised_hand: :v:
-Este proyecto trata del clásico juego de piedra, papel o tijeras, en el que dos jugadores se enfrentan  para debatir a través de un juego de manos, quién es el ganador.
+Este proyecto trata del clásico juego de piedra, papel o tijeras, en el que dos jugadores se enfrentan  para debatir a través de un juego de manos, quién es el ganador. A través de JavaScript, HTML5 y Css tratamos de llevar este juego a tu Pc, y lograr despertar recuerdos de tu infancia. 
 
 ## Introducción
 Este proyecto se inicia a partir de una propuesta lanzada por la Facultad de Matemática, Astronomía, Física y Computación a través del curso de Programación Web Front- End bajo la dirección de la Secretaría de Economía del Conocimiento.
